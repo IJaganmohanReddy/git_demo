@@ -3,3 +3,4 @@ file2_rebase
 file2_rebase_master 222
 bug_fix_2b
 file2_rebase_bugfix
+file2_rebase_bugfix 222
